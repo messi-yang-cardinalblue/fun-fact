@@ -127,6 +127,6 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Pico - Fun Fact!',
     description: 'Learn the fun facts from other Pico members!',
-    images: [{ url: '/thumbnail.jpg' }],
+    images: [{ url: 'https://fun-fact-rouge.vercel.app/thumbnail.jpg' }],
   },
 };
