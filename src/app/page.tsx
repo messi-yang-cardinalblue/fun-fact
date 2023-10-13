@@ -65,7 +65,7 @@ export default function Home() {
           </p>
           <blockquote>
             Note: A player can only hold one Spell Card at a time. If a player obtains a new Spell Card while already
-            holding one, they must choose to either discard the original Spell Card or give up the new one.
+            holding one, they must discard the original Spell Card.
           </blockquote>
           <img src="/spell_card.png" width={200} />
           <h2>Flow of Play</h2>
@@ -93,16 +93,8 @@ export default function Home() {
           <h3>Successful Pair</h3>
           <p>You may choose a Spell Card from the table to assist you in achieving victory in the subsequent game.</p>
           <h3>Unsuccessful Pair</h3>
-          <p>Face a penalty and roll the dice.</p>
-          <ul>
-            <li>1 = Share a fun fact about yourself.</li>
-            <li>2 = Perform a short PPAP dance.</li>
-            <li>3 = Greet everyone using "cat language."</li>
-            <li>4 = Spin around in place three times.</li>
-            <li>5 = Take a big sip of the drink in your hand.</li>
-            <li>6 = Share a fun fact about someone else.</li>
-          </ul>
-          <h2>Call Out "PicCo!" First!</h2>
+          <p>Face a penalty decided by the moderator (e.g. tell a fun fact about yourself).</p>
+          <h2>Special Rule: Call Out "PicCo!" First!</h2>
           <p>
             All players can try to be the first to shout "PicCo!" after an Info Card is flipped, even if It's not their
             turn. The outcome after declaring "PicCo!" follows the standard rules - receive a reward or accept a
