@@ -32,6 +32,7 @@ export default function Home() {
               Place the spell cards and dice in the center of the table, ensuring they are visible to all players.
             </li>
           </ul>
+          <img src="/demo.jpg" width="100%" />
           <h2>The Cards</h2>
           <h3>Image Cards</h3>
           <p>Contains a member's name, portrait, and meme.</p>
