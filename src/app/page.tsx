@@ -125,7 +125,8 @@ export default function Home() {
 
 export const metadata: Metadata = {
   openGraph: {
-    title: 'this is open graph title for testing',
-    description: 'Some description',
+    title: 'Pico - Fun Fact!',
+    description: 'Learn the fun facts from other Pico members!',
+    images: [{ url: '/thumbnail.jpg' }],
   },
 };
